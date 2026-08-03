@@ -1,4 +1,4 @@
-# [Legacy] OPEN_SBTI_TEST
+# [Leg] OPEN_SBTI_TEST
 
 [![English](https://img.shields.io/badge/README-English-1f6feb?style=for-the-badge)](./README.en.md)
 
