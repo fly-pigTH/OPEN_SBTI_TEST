@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/README-English-1f6feb?style=for-the-badge)](./README.en.md)
 
-这是一个开源的 `SBTI` 学习版项目，致敬 `https://sbti.unun.dev/` 上公开可访问的 `SBTI 人格测试` 页面。
+这是一个开源的 `SBTI` 学习版项目，致敬 `https://sbti.unun.dev/` 上公开可访问的 `SBTI 人格测试` 页面。当前仓库已经废除。
 
 ## 项目介绍
 
